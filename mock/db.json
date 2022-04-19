@@ -1,0 +1,67 @@
+
+{
+    "stock": [
+      {
+        "id": 1,
+        "amount": 3
+      },
+      {
+        "id": 2,
+        "amount": 5
+      },
+      {
+        "id": 3,
+        "amount": 2
+      },
+      {
+        "id": 4,
+        "amount": 1
+      },
+      {
+        "id": 5,
+        "amount": 5
+      },
+      {
+        "id": 6,
+        "amount": 10
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "title": "Guitarra IBANEZ-GRG170DX-bkn Preta",
+        "price": 2700.00
+      
+      },
+      {
+        "id": 2,
+        "title": "Guitarra Les Paul Michael GM730N BK Preta",
+        "price": 1700.00
+       
+      },
+      {
+        "id": 3,
+        "title": "Guitarra Preta EG-810 BK - Maclend",
+        "price": 1528.00
+      
+      },
+      {
+        "id": 5,
+        "title": "Guitarra Stratocaster Tagima Tg520 Preta",
+        "price": 1019.07
+      
+      },
+      {
+        "id": 6,
+        "title": "Guitarra Strinberg Explorer CLG48 Preta",
+        "price": 1444.40
+        
+      },
+      {
+        "id": 4,
+        "title": "Guitarra SX Sst57 Bk Vintage Series Preta",
+        "price": 1350.29
+     
+      }
+    ]
+  }
