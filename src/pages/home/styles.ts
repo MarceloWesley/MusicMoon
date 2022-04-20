@@ -47,7 +47,10 @@ button{
       display: flex;
       align-items: center;
       transition: background 0.2s;
-      
+
+      &:hover {
+        filter: contrast(110%);
+      }
 
       span{
           display: block; 
@@ -71,6 +74,29 @@ button{
     }
 
    
+}
+
+@media (max-width: 1028px){
+    grid-template-columns: repeat(2, 1fr);
+
+    div{
+        text-align: center;
+        
+    }
+
+
+}
+
+@media (max-width: 654px){
+    grid-template-columns: 1fr;
+
+    
+
+    li{
+       width: 300px;
+        margin: 0 auto;
+    }
+
 }
 
 `

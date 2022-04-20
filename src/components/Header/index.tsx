@@ -26,7 +26,7 @@ const cartSize = cart.length;
                   {cartSize === 1 ? `${cartSize} item` : `${cartSize} itens`}
                 </span>
             </div>
-            <FaShoppingCart  onClick={() => navigate('/Cart')}  size={36} color="#FFF" cursor='pointer'/>
+            <FaShoppingCart   onClick={() => navigate('/Cart')}  size={36} color="#FFF" cursor='pointer'/>
         </Cart>
         </Container>
     )

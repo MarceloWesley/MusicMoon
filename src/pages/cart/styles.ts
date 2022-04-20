@@ -28,6 +28,10 @@ footer {
       }
     }
 }
+
+@media (max-width: 670px){
+    overflow-x: scroll;
+  }
 `
 
 export const ProductTable = styled.table`
@@ -103,6 +107,10 @@ svg{
         cursor: not-allowed;
       }
     }
+
+    @media (max-width: 670px){
+    overflow-x: scroll;
+  }
 `
 
 export const Total = styled.div`
@@ -116,4 +124,9 @@ export const Total = styled.div`
     font-size: 28px;
     margin-left: 5px;
   }
+
+  @media (max-width: 670px){
+    overflow-x: scroll;
+  }
+ 
 `;
