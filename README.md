@@ -22,3 +22,4 @@ This is one of my first projects, I was inspired by the template of one of Rocke
 - CSS
 - Typescript
 - Styled Components
+- Json-Server
